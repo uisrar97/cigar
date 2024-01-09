@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /admin/ 
+Disallow: /apply-online-step1/ 
+Disallow: /cart/
